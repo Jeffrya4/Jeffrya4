@@ -2,7 +2,6 @@
 - 👀 I’m interested in music
 - 🌱 I’m currently learning to code with Python
 - 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me AbbekerkJeffry@gmail.com
 - 😄 Pronouns: He/Him
 
 <!---
